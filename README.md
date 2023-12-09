@@ -1,7 +1,8 @@
 ### Hi! I'm Bernice Peña 👋
 
+### Hi there 👋, Bernice Peña
 #### Computer Engineering Student
-![Computer Engineering Student](https://storage.prompt-hunt.workers.dev/clffao2vd000rl70811khgrrc_1)
+![Computer Engineering Student](https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif)
 
 I'm currently a 3rd year college student taking Bachelor of Science in Computer Engineering in Technological Institute of the Philippines - QC campus. I'm passionate about technology innovation and how technology works in different fields especially for the convenient use, I attended seminars and became a programming volunteer teacher in a learning center here in the Philippines, I also volunteered in a robotics outreach program to teach junior students about embedded systems and logic circuit design. I also enjoy software development, and UI/UX. 💻
 
