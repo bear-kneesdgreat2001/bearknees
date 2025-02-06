@@ -5,7 +5,7 @@
 
 <h2 align="left">👩‍💼About me:</h2>
 
-- I'm currently a 3rd year college student taking Bachelor of Science in Computer Engineering in Technological Institute of the Philippines - QC campus. I'm passionate about technology innovation and how technology works in different fields especially for the convenient use, I attended seminars and became a programming volunteer teacher in a learning center here in the Philippines, I also volunteered in a robotics outreach program to teach junior students about embedded systems and logic circuit design. I also enjoy software development, and UI/UX. 💻
+- I'm currently a 4th year college student taking Bachelor of Science in Computer Engineering in Technological Institute of the Philippines - QC campus. I'm passionate about technology innovation and how technology works in different fields especially for the convenient use, I attended seminars and became a programming volunteer teacher in a learning center here in the Philippines, I also volunteered in a robotics outreach program to teach junior students about embedded systems and logic circuit design. I also enjoy software development, and UI/UX. 💻
 
 Skills:
 Programming: JS / C++ / Python / HTML / CSS
