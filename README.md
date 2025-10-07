@@ -14,7 +14,7 @@ Cloud Dev, Systems Automation & Deployment (Ansible, Jenkins, Docker)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bearknees)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bernice-peña-1b3459246//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/BearKnees)
 
-### Check out some of my basic hands-on activities on Systems Administration
+### Check out some of my basic hands-on activities in Systems Administration
 
 | ACTIVITY         | TITLE      |
 | ------------ | ---------- |
