@@ -5,7 +5,7 @@
 
 <h2 align="left">👩‍💼About me:</h2>
 
-- I'm a Computer Engineering graduate in Technological Institute of the Philippines - QC campus. Currently working as a software developer at a tech company. I'm passionate about technology innovation and how technology works in different fields especially for the convenient use, I attended seminars and became a programming volunteer teacher in a learning center here in the Philippines, I also volunteered in a robotics outreach program to teach junior students about embedded systems and logic circuit design. I play tennis as a hobby (intermidiate player :D), and when I'm not chasing tennis balls, I'm probably chasing bugs in my code. 💻
+- I'm a Computer Engineering graduate from Technological Institute of the Philippines - QC campus. Currently working as a software developer at a tech company. I'm passionate about technology innovation and how technology works in different fields especially for the convenient use, I attended seminars and became a programming volunteer teacher in a learning center here in the Philippines, I also volunteered in a robotics outreach program to teach junior students about embedded systems and logic circuit design. I play tennis as a hobby (intermidiate player :D), and when I'm not chasing tennis balls, I'm probably chasing bugs in my code. 💻
 
 Skills:
 Programming languages: Java / JS / C++ / Python / HTML / Ruby
