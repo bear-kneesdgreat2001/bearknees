@@ -1,14 +1,14 @@
 ### Hi! I'm Bernice Peña 👋
 
-#### Computer Engineering Student
+#### Software Developer
 <img align="right" alt="Coding" width="400" src="https://media.baamboozle.com/uploads/images/358185/1619783289_335117_url.gif">
 
 <h2 align="left">👩‍💼About me:</h2>
 
-- I'm currently a 4th year college student taking Bachelor of Science in Computer Engineering in Technological Institute of the Philippines - QC campus. I'm passionate about technology innovation and how technology works in different fields especially for the convenient use, I attended seminars and became a programming volunteer teacher in a learning center here in the Philippines, I also volunteered in a robotics outreach program to teach junior students about embedded systems and logic circuit design. I also enjoy software development, and UI/UX. 💻
+- I'm a Computer Engineering graduate in Technological Institute of the Philippines - QC campus. Currently working as a software developer at a tech company. I'm passionate about technology innovation and how technology works in different fields especially for the convenient use, I attended seminars and became a programming volunteer teacher in a learning center here in the Philippines, I also volunteered in a robotics outreach program to teach junior students about embedded systems and logic circuit design. I play tennis as a hobby (intermidiate player :D), and when I'm not chasing tennis balls, I'm probably chasing bugs in my code. 💻
 
 Skills:
-Programming: Java / JS / C++ / Python / HTML / Ruby
+Programming languages: Java / JS / C++ / Python / HTML / Ruby
 
 Cloud Dev, Systems Automation & Deployment (Ansible, Jenkins, Docker)
 
